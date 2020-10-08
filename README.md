@@ -5,6 +5,7 @@
 
 
 to run the python script to create the database and insert the csv data, enter this command:
+
 ```python RFIDtoSQLite.py```
 
 Then you can explore the BathTowel-tags.db with the appropriate sqlite browser
